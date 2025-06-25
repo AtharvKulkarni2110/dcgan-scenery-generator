@@ -11,7 +11,7 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 - Both networks train together in a mini adversarial game
 
 
-![DCGANS results](https://github.com/user-attachments/assets/9b4abd29-e9ea-4da4-8d97-257c3d2fbf69)
+ ![DCGANS results](https://github.com/user-attachments/assets/9b4abd29-e9ea-4da4-8d97-257c3d2fbf69)
 
 
 ## 🚀 Project Highlights
