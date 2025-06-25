@@ -10,8 +10,8 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 - A **Discriminator** network to distinguish between real and fake images
 - Both networks train together in a mini adversarial game
 
+<img src="results/DCGANS results.gif" width="600"/>
 
- ![DCGANS results](https://github.com/user-attachments/assets/9b4abd29-e9ea-4da4-8d97-257c3d2fbf69)
 
 
 ## 🚀 Project Highlights
