@@ -1,8 +1,16 @@
-# dcgan-scenery-generator
 
 # DCGAN Scenery Generator 🌄
 
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) using PyTorch to generate realistic **scenery/sky images** from random noise. It's designed as a deep learning project suitable for portfolio or resume showcasing.
+
+## 🤖 What is DCGAN?
+
+**DCGANs (Deep Convolutional GANs)** are a special kind of GAN that replaces fully connected layers with convolutional layers, making them highly effective for image generation tasks. They use:
+
+- A **Generator** network to learn how to create fake images
+- A **Discriminator** network to distinguish between real and fake images
+- Both networks train together in a mini adversarial game
+
 
 ## 🚀 Project Highlights
 
@@ -17,6 +25,24 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 - **Discriminator**: CNN to distinguish real from generated images
 - **Loss**: Binary Cross-Entropy (BCE) Loss
 
+
+## 📊 Results
+
+Below is a sample output after training for 100 epochs:
+
+| **Epoch** | **Generated Images** |
+|-----------|-----------------------|
+| 20        | Basic blurry shapes   |
+| 50        | Clearer structure     |
+| 99        | Realistic scenery! 🌅 |
+
+
+
+![Screenshot 2025-06-25 234405](https://github.com/user-attachments/assets/791b60ce-0533-4be7-8098-144aa7ad12e8)
+![Screenshot 2025-06-25 234425](https://github.com/user-attachments/assets/191a1ae3-3bfc-4fd9-9342-ee97185e34cd)
+
+
+---
 ## 📦 Dependencies
 
 Install via `requirements.txt`:
