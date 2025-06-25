@@ -84,7 +84,7 @@ Optionally edit dataset path if training on a different dataset.
 This project uses a publicly available dataset of natural scenery images sourced from Kaggle.
 
 📥 **Dataset link**:  
-👉 [Scenery Image Dataset on Kaggle]([https://www.kaggle.com/datasets/arnaud58/landscape-pictures])
+👉 [Scenery Image Dataset on Kaggle](https://www.kaggle.com/datasets/arnaud58/landscape-pictures)
 
 To use it:
 1. Download the dataset from Kaggle.
