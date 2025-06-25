@@ -79,5 +79,17 @@ Optionally edit dataset path if training on a different dataset.
 
 - Adjust latent space size (z_dim) and learning rates for experiments.
 
+## 📂 Dataset
+
+This project uses a publicly available dataset of natural scenery images sourced from Kaggle.
+
+📥 **Dataset link**:  
+👉 [Scenery Image Dataset on Kaggle]([https://www.kaggle.com/datasets/arnaud58/landscape-pictures])
+
+To use it:
+1. Download the dataset from Kaggle.
+2. Place the extracted folder inside the project directory (e.g., `data/`).
+3. Update the dataset path in the notebook if needed.
+
 📄 License
 MIT License – free to use, modify, or build upon!
