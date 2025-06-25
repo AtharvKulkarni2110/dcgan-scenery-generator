@@ -68,7 +68,7 @@ pip install -r requirements.txt
 Open the notebook and run:
 
 ```bash
-jupyter notebook DCGAN_project_pynb.ipynb
+jupyter notebook DCGAN_project.ipynb
 ```
 
 Optionally edit dataset path if training on a different dataset.
